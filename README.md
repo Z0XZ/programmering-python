@@ -2,4 +2,4 @@
 
 
 ## Relevante nettsteder hvor det også ligger en del opplegg:
-![https://www.edudata.no](Edudata)
+![Edudata](https://www.edudata.no)
